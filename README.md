@@ -18,7 +18,7 @@ from pprint import pprint
 
 # Structure payload.
 payload = {
-    'source': 'universal_ecommerce',
+    'source': 'universal',
     'url': 'https://www.bunnings.com.au/products/tools'
 }
 
