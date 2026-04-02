@@ -54,4 +54,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-Using our specialized Bunnings Scraper, you can seamlessly gather public data from your chosen Bunnings web pages. This allows you to acquire important product details, like cost, user feedback, and product specifications, in order to perform market analysis and maintain a competitive edge. For any assistance or inquiries, engage with our customer service team through live chat or send us an email at hello@oxylabs.io.
+Using our specialized Bunnings Scraper, you can seamlessly gather public data from your chosen Bunnings web pages. This allows you to acquire important product details, like cost, user feedback, and product specifications, in order to perform market analysis and maintain a competitive edge. For any assistance or inquiries, engage with our customer service team through live chat or send us an email at support@oxylabs.io.
